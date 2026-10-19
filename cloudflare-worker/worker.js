@@ -1,8 +1,3 @@
-/**
- * HyLooks CMS API for GitHub Pages.
- * Configure Worker secrets/vars: GITHUB_TOKEN (secret), GITHUB_OWNER, GITHUB_REPO,
- * GITHUB_BRANCH, ALLOWED_ORIGIN (for example https://USERNAME.github.io).
- */
 const API = "https://api.github.com";
 const JSON_PATH = "assets/data/videos.json";
 const MAX_THUMB_BYTES = 5 * 1024 * 1024;
