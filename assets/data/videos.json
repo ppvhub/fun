@@ -1,6 +1,6 @@
 {
   "version": "1.3",
-  "updated": "2026-10-19T21:32:23.730Z",
+  "updated": "2026-10-19T23:53:43.705Z",
   "videos": [
     {
       "id": "video001",
@@ -194,6 +194,19 @@
         "provider": "videy",
         "encrypted": "YyY8HHNwAwEDe3YlODV/UDcqUFhUKDgqeTg1UW1tD0JAOC0g",
         "iv": "HYL015BB2QVW",
+        "ver": 1
+      }
+    },
+    {
+      "id": "video016",
+      "title": "A soft smile can say so much",
+      "thumb": "assets/thumb/video016.webp",
+      "views": "159.9K",
+      "duration": "23:49",
+      "video": {
+        "provider": "videy",
+        "encrypted": "BUAhd3oPPVxYJwIZAgBjbHpgdhZFLCtZXUA5djw+IU1YJykbQUdjNCczalxUPT5TWFQoOCp+M05BZ2UMQkA4LSA=",
+        "iv": "HYL016JH69DP",
         "ver": 1
       }
     }
