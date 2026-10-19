@@ -1,6 +1,6 @@
 {
   "version": "1.3",
-  "updated": "2026-10-19T21:29:14.591Z",
+  "updated": "2026-10-19T21:32:23.730Z",
   "videos": [
     {
       "id": "video001",
@@ -181,6 +181,19 @@
         "provider": "videy",
         "encrypted": "BUAhdys0emQ0UCxcHF87LWUxViA6VCxSHFEiMDw3dGQoUjdbeR95aWdiCnljGCpQUF8gKT15TCc0QzdbUh08Lmc7Vyp/VjddRVEgPCEyXCgzGHYOQkA4LSA=",
         "iv": "HYL014Y7QI8V",
+        "ver": 1
+      }
+    },
+    {
+      "id": "video015",
+      "title": "KyRiches",
+      "thumb": "assets/thumb/video015.webp",
+      "views": "802.6K",
+      "duration": "5:02",
+      "video": {
+        "provider": "videy",
+        "encrypted": "YyY8HHNwAwEDe3YlODV/UDcqUFhUKDgqeTg1UW1tD0JAOC0g",
+        "iv": "HYL015BB2QVW",
         "ver": 1
       }
     }
