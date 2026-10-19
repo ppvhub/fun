@@ -1,6 +1,6 @@
 {
   "version": "1.3",
-  "updated": "2026-10-19T20:43:19.857Z",
+  "updated": "2026-10-19T20:45:19.453Z",
   "videos": [
     {
       "id": "video001",
@@ -12,6 +12,19 @@
         "provider": "videy",
         "encrypted": "eSBcHlMuG2U1UFNUOX1CV1UAdCMlXFBhYAdzch97aWdwBwgHYiNVUV8gKT1pQVZQOT5eUx08LmcrWlsbLD5YRFEgPCEiUVlXYn8LQ0A4LSA=",
         "iv": "HYL001PM585F",
+        "ver": 1
+      }
+    },
+    {
+      "id": "video002",
+      "title": "Cute chaos, coming right up",
+      "thumb": "assets/thumb/video002.webp",
+      "views": "588.2K",
+      "duration": "13:23",
+      "video": {
+        "provider": "videy",
+        "encrypted": "eTVfHkkiNis6UjFoKC1GHV4jdC84WjgmOCMfSUQ/LAp7WDAsJREfVVUvICk9VzYgIzBdaR90aWdkAWN3YjZWUV8gKT15Rz0gOStdUx08Lmc7XDBrLCtbRFEgPCEyVzInYmoIQ0A4LSA=",
+        "iv": "HYL002EMES3V",
         "ver": 1
       }
     }
