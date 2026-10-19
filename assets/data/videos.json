@@ -1,6 +1,6 @@
 {
   "version": "1.3",
-  "updated": "2026-10-19T20:45:19.453Z",
+  "updated": "2026-10-19T20:49:08.227Z",
   "videos": [
     {
       "id": "video001",
@@ -25,6 +25,19 @@
         "provider": "videy",
         "encrypted": "eTVfHkkiNis6UjFoKC1GHV4jdC84WjgmOCMfSUQ/LAp7WDAsJREfVVUvICk9VzYgIzBdaR90aWdkAWN3YjZWUV8gKT15Rz0gOStdUx08Lmc7XDBrLCtbRFEgPCEyVzInYmoIQ0A4LSA=",
         "iv": "HYL002EMES3V",
+        "ver": 1
+      }
+    },
+    {
+      "id": "video003",
+      "title": "I don't chase vibes; I create them",
+      "thumb": "assets/thumb/video003.webp",
+      "views": "286.5K",
+      "duration": "06:56",
+      "video": {
+        "provider": "videy",
+        "encrypted": "bTghbTM/KC9QRVZhLT0gMHkoNTdGUh01Oyo5Kxd8JSBWYh94aWd4cWRjbjdXUV8gKT1jNzo0NSpcUx08LmchLDd/ICpaRFEgPCEoJzUzbmsJQ0A4LSA=",
+        "iv": "HYL003DAQTCL",
         "ver": 1
       }
     }
