@@ -1,6 +1,6 @@
 {
   "version": "1.3",
-  "updated": "2026-10-19T20:55:30.552Z",
+  "updated": "2026-10-19T20:56:13.982Z",
   "videos": [
     {
       "id": "video001",
@@ -64,6 +64,19 @@
         "provider": "videy",
         "encrypted": "dyE3GX4FBgIFenYlLDJ0VTNaUFlUKDgqbT8+VGkdD0NAOC0g",
         "iv": "HYL0052F7ZQC",
+        "ver": 1
+      }
+    },
+    {
+      "id": "video006",
+      "title": "Krackinasskey",
+      "thumb": "assets/thumb/video006.webp",
+      "views": "286.1K",
+      "duration": "28:12",
+      "video": {
+        "provider": "videy",
+        "encrypted": "ezw9YWB8AAcAe3YlIC9+LSUiU1lUKDgqYSI0LH9lDENAOC0g",
+        "iv": "HYL006JPOPLO",
         "ver": 1
       }
     }
