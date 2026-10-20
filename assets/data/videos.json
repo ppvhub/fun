@@ -1,6 +1,6 @@
 {
   "version": "1.3",
-  "updated": "2026-10-20T17:12:44.537Z",
+  "updated": "2026-10-20T18:47:43.420Z",
   "videos": [
     {
       "id": "video001",
@@ -376,6 +376,19 @@
         "provider": "videy",
         "encrypted": "BkAhdyYmGTYjJjtaW0UmdiU8KWo4OCpcW1QoOCp9JCA5Ym0DQUA4LSA=",
         "iv": "HYL029BMZDJS",
+        "ver": 1
+      }
+    },
+    {
+      "id": "video030",
+      "title": "Eye contact says enough",
+      "thumb": "assets/thumb/video030.webp",
+      "views": "459.1K",
+      "duration": "23:10",
+      "video": {
+        "provider": "videy",
+        "encrypted": "fEIgfFZEUyt2JSYqZlA4OlVaVCg4KmcnLFFifQpAQDgtIA==",
+        "iv": "HYL030RM2HII",
         "ver": 1
       }
     }
