@@ -1,6 +1,6 @@
 {
   "version": "1.3",
-  "updated": "2026-10-20T01:36:08.230Z",
+  "updated": "2026-10-20T01:37:42.320Z",
   "videos": [
     {
       "id": "video001",
@@ -337,6 +337,19 @@
         "provider": "videy",
         "encrypted": "eUhVfQAmAlZWeXYlIlsWMU0tU1tUKDgqY1ZcMBdqDEFAOC0g",
         "iv": "HYL026E8S88M",
+        "ver": 1
+      }
+    },
+    {
+      "id": "video027",
+      "title": "Kya ’22",
+      "thumb": "assets/thumb/video027.webp",
+      "views": "52.3K",
+      "duration": "5:25",
+      "video": {
+        "provider": "videy",
+        "encrypted": "YUAhHGoFU0kHdiUnNh4uRzBSW1QoOCpmO1QvHXcNQUA4LSA=",
+        "iv": "HYL027X2L0UH",
         "ver": 1
       }
     }
