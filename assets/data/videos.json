@@ -1,6 +1,6 @@
 {
   "version": "1.3",
-  "updated": "2026-10-20T00:32:21.724Z",
+  "updated": "2026-10-20T00:34:24.450Z",
   "videos": [
     {
       "id": "video001",
@@ -220,6 +220,19 @@
         "provider": "videy",
         "encrypted": "BkksY11URFZhNjwaQVwqJFoaQkMtdDxWVBQnIhtZUFMlC2VYRkskOGYaV1wlFGVZXVwtNFheaB99aGcFAAlzYkVTUF8gKT0YRlckOVhYUh08LmdaXVpvLFheRVEgPCFTVlgjYhkNQkA4LSA=",
         "iv": "HYL0176MA927",
+        "ver": 1
+      }
+    },
+    {
+      "id": "video018",
+      "title": "Francis Rivas",
+      "thumb": "assets/thumb/video018.webp",
+      "views": "411.4K",
+      "duration": "0:53",
+      "video": {
+        "provider": "videy",
+        "encrypted": "BDw0ZilBMRQpOE5YYmEqITJXKEscdF1VHSM3Oj5JZFY/PVFnH3RpZ2cLeQt1KlxQXyApPX5NJ1wuN1dSHTwuZzxWKhc7N1FFUSA8ITVdKFt1dgJCQDgtIA==",
+        "iv": "HYL018YZ9I9Q",
         "ver": 1
       }
     }
