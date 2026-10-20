@@ -1,6 +1,6 @@
 {
   "version": "1.3",
-  "updated": "2026-10-20T00:44:42.505Z",
+  "updated": "2026-10-20T00:45:55.667Z",
   "videos": [
     {
       "id": "video001",
@@ -259,6 +259,19 @@
         "provider": "videy",
         "encrypted": "bTgiH15bCj1TW1gPdiUgUhxQOT5VW1QoOCphX1ZRY3kKQUA4LSA=",
         "iv": "HYL020VL221O",
+        "ver": 1
+      }
+    },
+    {
+      "id": "video021",
+      "title": "Teanna (Full Video)",
+      "thumb": "assets/thumb/video021.webp",
+      "views": "105.8K",
+      "duration": "14:30",
+      "video": {
+        "provider": "videy",
+        "encrypted": "fCgjfWwiXUd2GHYlJztgMU0mVFtUKDgqZjYqMBdhC0FAOC0g",
+        "iv": "HYL021N8SNXH",
         "ver": 1
       }
     }
