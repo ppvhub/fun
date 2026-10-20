@@ -1,6 +1,6 @@
 {
   "version": "1.3",
-  "updated": "2026-10-20T00:52:46.037Z",
+  "updated": "2026-10-20T00:55:27.282Z",
   "videos": [
     {
       "id": "video001",
@@ -311,6 +311,19 @@
         "provider": "videy",
         "encrypted": "DSNUGWMBewZ2JVwlFzFMX1FbVCg4Kh0oXTAWGA5BQDgtIA==",
         "iv": "HYL02479S9F3",
+        "ver": 1
+      }
+    },
+    {
+      "id": "video025",
+      "title": "Sophie Rain",
+      "thumb": "assets/thumb/video025.webp",
+      "views": "793.8K",
+      "duration": "2:22",
+      "video": {
+        "provider": "videy",
+        "encrypted": "eCklZyheKlNgXUJfH3YlJiUZIUdaUFtUKDgqZyhTIB0dD0FAOC0g",
+        "iv": "HYL02522C7FI",
         "ver": 1
       }
     }
