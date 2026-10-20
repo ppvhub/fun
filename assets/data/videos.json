@@ -1,6 +1,6 @@
 {
   "version": "1.3",
-  "updated": "2026-10-20T00:46:48.099Z",
+  "updated": "2026-10-20T00:47:54.098Z",
   "videos": [
     {
       "id": "video001",
@@ -285,6 +285,19 @@
         "provider": "videy",
         "encrypted": "fzw/HHBzdAR2JS4mZS4nWldbVCg4Km8rLy99HQhBQDgtIA==",
         "iv": "HYL0222RLKEA",
+        "ver": 1
+      }
+    },
+    {
+      "id": "video023",
+      "title": "Gem & Lacey",
+      "thumb": "assets/thumb/video023.webp",
+      "views": "152.9K",
+      "duration": "28:48",
+      "video": {
+        "provider": "videy",
+        "encrypted": "BQobHnR5dXEOdiVZUnQ0RVBWW1QoOCoYXz41HxcJQUA4LSA=",
+        "iv": "HYL02380VZ16",
         "ver": 1
       }
     }
