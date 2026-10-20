@@ -1,6 +1,6 @@
 {
   "version": "1.3",
-  "updated": "2026-10-20T01:37:42.320Z",
+  "updated": "2026-10-20T02:05:03.903Z",
   "videos": [
     {
       "id": "video001",
@@ -350,6 +350,19 @@
         "provider": "videy",
         "encrypted": "YUAhHGoFU0kHdiUnNh4uRzBSW1QoOCpmO1QvHXcNQUA4LSA=",
         "iv": "HYL027X2L0UH",
+        "ver": 1
+      }
+    },
+    {
+      "id": "video028",
+      "title": "Guess who's stealing the spotlight",
+      "thumb": "assets/thumb/video028.webp",
+      "views": "509.5K",
+      "duration": "9:07",
+      "video": {
+        "provider": "videy",
+        "encrypted": "AzQoH2pjfgd2JV4qGSYwWV1bVCg4Kh8nUydqHgJBQDgtIA==",
+        "iv": "HYL0281ED7I1",
         "ver": 1
       }
     }
