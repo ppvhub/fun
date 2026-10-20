@@ -1,6 +1,6 @@
 {
   "version": "1.3",
-  "updated": "2026-10-20T00:47:54.098Z",
+  "updated": "2026-10-20T00:52:46.037Z",
   "videos": [
     {
       "id": "video001",
@@ -298,6 +298,19 @@
         "provider": "videy",
         "encrypted": "BQobHnR5dXEOdiVZUnQ0RVBWW1QoOCoYXz41HxcJQUA4LSA=",
         "iv": "HYL02380VZ16",
+        "ver": 1
+      }
+    },
+    {
+      "id": "video024",
+      "title": "Jaaden",
+      "thumb": "assets/thumb/video024.webp",
+      "views": "548.9K",
+      "duration": "21:15",
+      "video": {
+        "provider": "videy",
+        "encrypted": "DSNUGWMBewZ2JVwlFzFMX1FbVCg4Kh0oXTAWGA5BQDgtIA==",
+        "iv": "HYL02479S9F3",
         "ver": 1
       }
     }
