@@ -1,6 +1,6 @@
 {
   "version": "1.3",
-  "updated": "2026-10-20T02:05:03.903Z",
+  "updated": "2026-10-20T17:12:44.537Z",
   "videos": [
     {
       "id": "video001",
@@ -363,6 +363,19 @@
         "provider": "videy",
         "encrypted": "AzQoH2pjfgd2JV4qGSYwWV1bVCg4Kh8nUydqHgJBQDgtIA==",
         "iv": "HYL0281ED7I1",
+        "ver": 1
+      }
+    },
+    {
+      "id": "video029",
+      "title": "A little flirt, a lot of blue, all confidence",
+      "thumb": "assets/thumb/video029.webp",
+      "views": "840.1K",
+      "duration": "5:24",
+      "video": {
+        "provider": "videy",
+        "encrypted": "BkAhdyYmGTYjJjtaW0UmdiU8KWo4OCpcW1QoOCp9JCA5Ym0DQUA4LSA=",
+        "iv": "HYL029BMZDJS",
         "ver": 1
       }
     }
