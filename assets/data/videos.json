@@ -1,6 +1,6 @@
 {
   "version": "1.3",
-  "updated": "2026-10-20T20:27:57.378Z",
+  "updated": "2026-10-20T20:53:39.940Z",
   "videos": [
     {
       "id": "video001",
@@ -402,6 +402,19 @@
         "provider": "videy",
         "encrypted": "B0YgbGE5VH0EBHYlXFVjIEQmVFpUKDgqHVgpIR5hC0BAOC0g",
         "iv": "HYL031N1BM63",
+        "ver": 1
+      }
+    },
+    {
+      "id": "video032",
+      "title": "Sweet vibes, zero explanations",
+      "thumb": "assets/thumb/video032.webp",
+      "views": "124.0K",
+      "duration": "5:54",
+      "video": {
+        "provider": "videy",
+        "encrypted": "fEc8HhZmYHMOdiVXKxkzRTBXWlQoOCoWJlMyH3cIQEA4LSA=",
+        "iv": "HYL032X0Q7H8",
         "ver": 1
       }
     }
