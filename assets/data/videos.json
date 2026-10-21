@@ -1,6 +1,6 @@
 {
   "version": "1.3",
-  "updated": "2026-10-21T14:24:03.834Z",
+  "updated": "2026-10-21T14:33:08.289Z",
   "videos": [
     {
       "id": "video001",
@@ -545,6 +545,19 @@
         "provider": "videy",
         "encrypted": "Z0I6dAZdWHx2JSEsfVAiMlddVCg4KmAhN1F4dQhHQDgtIA==",
         "iv": "HYL042ZW2SON",
+        "ver": 1
+      }
+    },
+    {
+      "id": "video043",
+      "title": "Princesa Amor",
+      "thumb": "assets/thumb/video043.webp",
+      "views": "201.1K",
+      "duration": "17:20",
+      "video": {
+        "provider": "videy",
+        "encrypted": "BUAkZ3oCAAQBeHYlXlNnKzpaVl1UKDgqH14tKmAdCUdAOC0g",
+        "iv": "HYL0432OII01",
         "ver": 1
       }
     }
