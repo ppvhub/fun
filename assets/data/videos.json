@@ -1,6 +1,6 @@
 {
   "version": "1.3",
-  "updated": "2026-10-21T14:38:29.842Z",
+  "updated": "2026-10-21T14:39:20.234Z",
   "videos": [
     {
       "id": "video001",
@@ -610,6 +610,19 @@
         "provider": "videy",
         "encrypted": "YT47eBwATmZ9BHYlOi14NDkpUl1UKDgqeyAyNWNuDUdAOC0g",
         "iv": "HYL047ALVVNU",
+        "ver": 1
+      }
+    },
+    {
+      "id": "video048",
+      "title": "Gem Jewels's",
+      "thumb": "assets/thumb/video048.webp",
+      "views": "501.8K",
+      "duration": "15:12",
+      "video": {
+        "provider": "videy",
+        "encrypted": "fERdfUJTGE9+XQt2JVtTfVRFI11dVCg4KhpeN1UfZAJHQDgtIA==",
+        "iv": "HYL048K06S04",
         "ver": 1
       }
     }
