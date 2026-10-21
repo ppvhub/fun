@@ -1,6 +1,6 @@
 {
   "version": "1.3",
-  "updated": "2026-10-21T14:19:51.652Z",
+  "updated": "2026-10-21T14:20:39.885Z",
   "videos": [
     {
       "id": "video001",
@@ -506,6 +506,19 @@
         "provider": "videy",
         "encrypted": "fD1eHHY0V1pFPXYlJy4dUDMyXFpUKDgqZiNXUWl1A0BAOC0g",
         "iv": "HYL039ZF23MH",
+        "ver": 1
+      }
+    },
+    {
+      "id": "video040",
+      "title": "Lana Love",
+      "thumb": "assets/thumb/video040.webp",
+      "views": "858.2K",
+      "duration": "26:45",
+      "video": {
+        "provider": "videy",
+        "encrypted": "bThZfjxDXFVRWlEgdiVbM3dXRlFVXVQoOCoaPj1WHBYKR0A4LSA=",
+        "iv": "HYL040935YP4",
         "ver": 1
       }
     }
