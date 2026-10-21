@@ -1,6 +1,6 @@
 {
   "version": "1.3",
-  "updated": "2026-10-21T15:02:54.983Z",
+  "updated": "2026-10-21T15:56:17.540Z",
   "videos": [
     {
       "id": "video001",
@@ -688,6 +688,19 @@
         "provider": "videy",
         "encrypted": "Z0I3a35QUUI4diUtMBw4MCNWXFQoOCpsPVY5amQJRkA4LSA=",
         "iv": "HYL053KEZ2SB",
+        "ver": 1
+      }
+    },
+    {
+      "id": "video054",
+      "title": "Cute with a twist",
+      "thumb": "assets/thumb/video054.webp",
+      "views": "475.1K",
+      "duration": "1:44",
+      "video": {
+        "provider": "videy",
+        "encrypted": "czwpZXoIAAQCe3YlKC9qKT1QUVxUKDgqaSIgKGcXDkZAOC0g",
+        "iv": "HYL0548HKDLG",
         "ver": 1
       }
     }
