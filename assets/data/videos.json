@@ -1,6 +1,6 @@
 {
   "version": "1.3",
-  "updated": "2026-10-20T21:30:42.793Z",
+  "updated": "2026-10-21T14:14:12.219Z",
   "videos": [
     {
       "id": "video001",
@@ -428,6 +428,19 @@
         "provider": "videy",
         "encrypted": "fCFYbAQRMFJHYwZ2JT5WbCQmKlZaVCg4Kn9bJiV8bQlAQDgtIA==",
         "iv": "HYL033BSFB5Q",
+        "ver": 1
+      }
+    },
+    {
+      "id": "video034",
+      "title": "badlilshego",
+      "thumb": "assets/thumb/video034.webp",
+      "views": "366.2K",
+      "duration": "2:16",
+      "video": {
+        "provider": "videy",
+        "encrypted": "dkYlfiUnDAdVNHYlLVVmMiQ4UVpUKDgqbFgsM35/DkBAOC0g",
+        "iv": "HYL034PQPH6B",
         "ver": 1
       }
     }
