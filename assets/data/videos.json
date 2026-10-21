@@ -1,6 +1,6 @@
 {
   "version": "1.3",
-  "updated": "2026-10-21T14:16:35.643Z",
+  "updated": "2026-10-21T14:18:25.267Z",
   "videos": [
     {
       "id": "video001",
@@ -467,6 +467,19 @@
         "provider": "videy",
         "encrypted": "fyUjZG11BwIFe3YlJDZgKCArU1pUKDgqZTsqKXpsDEBAOC0g",
         "iv": "HYL036CUJNUK",
+        "ver": 1
+      }
+    },
+    {
+      "id": "video037",
+      "title": "Melztube",
+      "thumb": "assets/thumb/video037.webp",
+      "views": "295.4K",
+      "duration": "29:04",
+      "video": {
+        "provider": "videy",
+        "encrypted": "dTwpfgl0BVVYJHYlLi9qMk0qUlpUKDgqbyIgMxdtDUBAOC0g",
+        "iv": "HYL037B8PDLA",
         "ver": 1
       }
     }
