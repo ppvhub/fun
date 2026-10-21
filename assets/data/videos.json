@@ -1,6 +1,6 @@
 {
   "version": "1.3",
-  "updated": "2026-10-21T14:14:54.879Z",
+  "updated": "2026-10-21T14:16:35.643Z",
   "videos": [
     {
       "id": "video001",
@@ -454,6 +454,19 @@
         "provider": "videy",
         "encrypted": "eTs1b3ghWFJfOHYlIih2Iz0rUFpUKDgqYyU8ImdsD0BAOC0g",
         "iv": "HYL035CHAXKM",
+        "ver": 1
+      }
+    },
+    {
+      "id": "video036",
+      "title": "POV: prettyassjas",
+      "thumb": "assets/thumb/video036.webp",
+      "views": "716.7K",
+      "duration": "11:35",
+      "video": {
+        "provider": "videy",
+        "encrypted": "fyUjZG11BwIFe3YlJDZgKCArU1pUKDgqZTsqKXpsDEBAOC0g",
+        "iv": "HYL036CUJNUK",
         "ver": 1
       }
     }
