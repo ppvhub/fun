@@ -1,6 +1,6 @@
 {
   "version": "1.3",
-  "updated": "2026-10-21T14:35:47.362Z",
+  "updated": "2026-10-21T14:37:49.611Z",
   "videos": [
     {
       "id": "video001",
@@ -584,6 +584,19 @@
         "provider": "videy",
         "encrypted": "fDo7HTMpFkFAUQd2JSU1HSg5MlBdVCg4KmQ4VyljdQ9HQDgtIA==",
         "iv": "HYL045ZLJ3VJ",
+        "ver": 1
+      }
+    },
+    {
+      "id": "video046",
+      "title": "Sariixo",
+      "thumb": "assets/thumb/video046.webp",
+      "views": "544.9K",
+      "duration": "3:47",
+      "video": {
+        "provider": "videy",
+        "encrypted": "A0M7fhgJTl1CH3YlWFB4MjkyU11UKDgqGV0yM2N1DEdAOC0g",
+        "iv": "HYL046ZLPV37",
         "ver": 1
       }
     }
