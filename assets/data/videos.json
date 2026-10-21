@@ -1,6 +1,6 @@
 {
   "version": "1.3",
-  "updated": "2026-10-21T14:37:49.611Z",
+  "updated": "2026-10-21T14:38:29.842Z",
   "videos": [
     {
       "id": "video001",
@@ -597,6 +597,19 @@
         "provider": "videy",
         "encrypted": "A0M7fhgJTl1CH3YlWFB4MjkyU11UKDgqGV0yM2N1DEdAOC0g",
         "iv": "HYL046ZLPV37",
+        "ver": 1
+      }
+    },
+    {
+      "id": "video047",
+      "title": "HMR",
+      "thumb": "assets/thumb/video047.webp",
+      "views": "684.2K",
+      "duration": "17:22",
+      "video": {
+        "provider": "videy",
+        "encrypted": "YT47eBwATmZ9BHYlOi14NDkpUl1UKDgqeyAyNWNuDUdAOC0g",
+        "iv": "HYL047ALVVNU",
         "ver": 1
       }
     }
