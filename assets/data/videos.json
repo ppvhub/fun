@@ -1,6 +1,6 @@
 {
   "version": "1.3",
-  "updated": "2026-10-21T14:42:35.913Z",
+  "updated": "2026-10-21T14:43:19.640Z",
   "videos": [
     {
       "id": "video001",
@@ -662,6 +662,19 @@
         "provider": "videy",
         "encrypted": "ciIoH3ZjCHYlPTAZJCctVFxUKDgqfD1TJX1qC0ZAOC0g",
         "iv": "HYL051ERF7SR",
+        "ver": 1
+      }
+    },
+    {
+      "id": "video052",
+      "title": "Lexi's",
+      "thumb": "assets/thumb/video052.webp",
+      "views": "654.2K",
+      "duration": "2:38",
+      "video": {
+        "provider": "videy",
+        "encrypted": "YgIef2wAXUgAdiUsNXwxJDBXXFQoOCptODYwfncIRkA4LSA=",
+        "iv": "HYL052XQSRVC",
         "ver": 1
       }
     }
