@@ -1,6 +1,6 @@
 {
   "version": "1.3",
-  "updated": "2026-10-21T14:22:58.989Z",
+  "updated": "2026-10-21T14:24:03.834Z",
   "videos": [
     {
       "id": "video001",
@@ -532,6 +532,19 @@
         "provider": "videy",
         "encrypted": "fzFbfwVdWHx2JTU1ZSNDOVRdVCg4KnQ4LyIZfgtHQDgtIA==",
         "iv": "HYL041Q6AKVZ",
+        "ver": 1
+      }
+    },
+    {
+      "id": "video042",
+      "title": "Gigi Lysette",
+      "thumb": "assets/thumb/video042.webp",
+      "views": "158.9K",
+      "duration": "6:09",
+      "video": {
+        "provider": "videy",
+        "encrypted": "Z0I6dAZdWHx2JSEsfVAiMlddVCg4KmAhN1F4dQhHQDgtIA==",
+        "iv": "HYL042ZW2SON",
         "ver": 1
       }
     }
