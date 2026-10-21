@@ -1,6 +1,6 @@
 {
   "version": "1.3",
-  "updated": "2026-10-21T14:33:08.289Z",
+  "updated": "2026-10-21T14:34:55.442Z",
   "videos": [
     {
       "id": "video001",
@@ -558,6 +558,19 @@
         "provider": "videy",
         "encrypted": "BUAkZ3oCAAQBeHYlXlNnKzpaVl1UKDgqH14tKmAdCUdAOC0g",
         "iv": "HYL0432OII01",
+        "ver": 1
+      }
+    },
+    {
+      "id": "video044",
+      "title": "Katt Leya 1",
+      "thumb": "assets/thumb/video044.webp",
+      "views": "458.8K",
+      "duration": "6:13",
+      "video": {
+        "provider": "videy",
+        "encrypted": "DCQhZyZcZ3wHdiVaW3ouPCFRXVQoOCobVjAvZmYOR0A4LSA=",
+        "iv": "HYL044IILT85",
         "ver": 1
       }
     }
